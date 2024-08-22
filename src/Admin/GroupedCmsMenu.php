@@ -221,5 +221,4 @@ class GroupedCmsMenu extends LeftAndMainExtension
             $filtered->sort('ChildTitle') :
             $filtered->sort('SortOrder');
     }
-
 }
